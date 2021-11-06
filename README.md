@@ -11,7 +11,7 @@ Se furhter description in the pdf-file
 
 **Desription of files:**
 
-**PDF** is a more in depth descriton of the project
+**PDF** is the descriton of the project
 
 **boot.py** is the boot file for the LoPy4
 
