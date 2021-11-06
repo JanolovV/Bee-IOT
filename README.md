@@ -8,9 +8,15 @@ During winter a lot of bees die and if the bee population gets to small, they ca
 Se furhter description in the pdf-file
 
 Desription of files:
+
 PDF is a more in depth descriton of the project
+
 boot.py is the boot file for the LoPy4
+
 main.py is the main program for the LoPy4
+
 pybytes_config.json is the configuration needed to connect to the pybytes server. I have removed some vital parts concerning my WiFi
+
 sketch_BME280.ino is the program for the Arduino with measuring sensor and transmitting radio
+
 sketch_reveiver_PCB.ino is the program for the receiving arduino that also sends the data to the LoPy over a serial line
