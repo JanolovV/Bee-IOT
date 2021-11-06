@@ -1,0 +1,31 @@
+Bill of material: 
+
+Unit one, transmitter: 
+1 Arduino mini pro, 3.3 V version - https://www.electrokit.com/produkt/utvecklingskort-atmega328p-pro-mini-3v-kompatibelt-10-pack/
+1 nRF24L+ with chip antenna - https://www.electrokit.com/produkt/tradlos-modul-med-nrf24l01/
+1 BME280 (Aliexpress China, no European supplier have a reasonable price tag, sorry) - https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20211106014727&origin=y&SearchText=BME280
+Wires to connect them or a PCB https://www.openhardware.io/view/4/EasyNewbie-PCB-for-MySensors 
+
+Unit two, receiver: 
+1 Arduino mini pro, 3.3 V version  - https://www.electrokit.com/produkt/utvecklingskort-atmega328p-pro-mini-3v-kompatibelt-10-pack/
+1 nRF24L+ with external antenna (Aliexpress China) - https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20211106015307&SearchText=nRF24L01
+1 PCB https://www.openhardware.io/view/4/EasyNewbie-PCB-for-MySensors 
+
+LoPy: 
+1 PyCom LoPy4 - https://pycom.io/product/lopy4/
+1 PyCom Expansion board 3 - https://pycom.io/product/expansion-board-3-0/
+1 breadboard (optional) - https://www.electrokit.com/produkt/kopplingsdack-400-anslutningar/
+1 backup battery (optional) (Be sure to check polarity on the connector!) - https://www.electrokit.com/produkt/batteri-lipo-3-7v-400mah-2/
+
+Battery power supply: 
+For each unit to run on battery 
+1 battery box 3xAA - https://www.electrokit.com/produkt/batterihallare-3xaa-sladdanslutning/
+1 Voltage regulator MCP 1700 3.3 V - https://www.electrokit.com/produkt/mcp1700-3302e-to-to-92-ldo-spanningsregulator-3-3v-250ma/
+1 tantal  or ceramic capacitor 10 uF 10V https://www.electrokit.com/produkt/tantal-10uf-10v-2-54mm/
+1 3-pole connector - https://www.electrokit.com/produkt/kopplingsplint-sockerbit-2-5mm%c2%b2-12-pol/
+
+Additionally you need some cables for interconnection and a FTDI (make sure you get the right voltage for your Arduino) for programming the Arduino boards 
+since the mini pro does not have an integrated USB port. If you by one, make sure it has the right voltage for your Arduinos. And of course USB cables to 
+connect to both Arduino and LoPy which in my case have different connections. Mini-USB for Arduino and micro-USB for the LoPy.
+
+FTDI - https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20211106023150&SearchText=FTDI
