@@ -9,7 +9,7 @@ During winter a lot of bees die and if the bee population gets to small, they ca
 
 Se furhter description in the pdf-file
 
-Desription of files:
+**Desription of files:**
 
 **PDF** is a more in depth descriton of the project
 
