@@ -1,3 +1,5 @@
+Jan-Olov  -  jv222ni
+
 # Bee-IOT, System for measurement of temperature and humidity in Bee hives
 A short background
 
